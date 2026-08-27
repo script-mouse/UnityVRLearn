@@ -28,7 +28,6 @@ public class PlayQuickSound : MonoBehaviour
     {
         float randomVariance = Random.Range(-randomPitchVariance, randomPitchVariance);
         randomVariance += defaultPitch;
-
         audioSource.pitch = randomVariance;
         audioSource.PlayOneShot(sound, volume);
         audioSource.pitch = defaultPitch;
