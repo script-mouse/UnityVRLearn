@@ -1,4 +1,5 @@
-namespace VARLab.UnityVRLearn.Clock {
+namespace VARLab.UnityVRLearn.Clock 
+{
 	using System.Collections;
 	using System.Collections.Generic;
 	
@@ -74,9 +75,9 @@ namespace VARLab.UnityVRLearn.Clock {
 		
 		private void Awake()
 		{
-			Assert.IsNotNull(secondHand, "Clock.secondHand must be set!");
-			Assert.IsNotNull(minuteHand, "Clock.minuteHand must be set!");
-			Assert.IsNotNull(hourHand, "Clock.hourHand must be set!");
+			Assert.IsNotNull(secondHand, "VARLab.UnityVRLearn.Clock.Clock.secondHand must be set!");
+			Assert.IsNotNull(minuteHand, "VARLab.UnityVRLearn.Clock.Clock.minuteHand must be set!");
+			Assert.IsNotNull(hourHand, "VARLab.UnityVRLearn.Clock.Clock.hourHand must be set!");
 			
 
 		}
