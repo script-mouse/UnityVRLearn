@@ -14,6 +14,7 @@
     "com.unity.xr.interaction.toolkit": "2.6.4",
     "com.unity.xr.management": "4.4.1",
     "com.unity.xr.openxr": "1.14.3",
+    "edu.ucf.varlab.utility": "file:../Assets/LocalPackages/edu.ucf.varlab.utility-3.0.0.tgz",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",

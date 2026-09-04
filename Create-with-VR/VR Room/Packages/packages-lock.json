@@ -231,6 +231,12 @@
       },
       "url": "https://packages.unity.com"
     },
+    "edu.ucf.varlab.utility": {
+      "version": "file:../Assets/LocalPackages/edu.ucf.varlab.utility-3.0.0.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {}
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
